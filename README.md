@@ -16,7 +16,7 @@ And Travel programı ile Amerika'da çalışma ve dilimi geliştirme fırsatın�
 ---
 
 ### 🌐 Connect with me:
-[![Linkedin](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)]([[linkedin.com/in/erkan-yiğit-8821a4262](https://www.linkedin.com/in/erkan-yiğit-8821a4262/)](https://www.linkedin.com/in/erkan-yi%C4%9Fit-8821a4262?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B%2FNFLfMf%2BTQiYmUIeO8B2bw%3D%3D))
+[![Linkedin](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/erkan-yiğit-8821a4262/)
 
 ---
 
