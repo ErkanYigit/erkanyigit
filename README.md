@@ -5,8 +5,6 @@
 
 - 🔭 I’m currently learning Coding
 
-- 💬 Ask me about **C#, Unity**
-
 - 📫 How to reach me: **erkan.ygt01@gmail.com**
 
 - ABOUT ME
