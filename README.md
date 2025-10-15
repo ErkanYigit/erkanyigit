@@ -34,6 +34,7 @@ And Travel programı ile Amerika'da çalışma ve dilimi geliştirme fırsatın�
 ### 📊 GitHub Stats:
 <p>
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=erkanyigit&layout=compact&hide=html,css&langs_count=8" alt="erkanyigit" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=erkanyigit&layout=compact&hide=html,css&langs_count=8" />
 </p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=erkanyigit&show_icons=true&locale=en" alt="erkanyigit" /></p>
 
