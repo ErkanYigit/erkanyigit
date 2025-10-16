@@ -65,11 +65,11 @@ bilgiliyim. Takım içinde uyumlu çalışabilme özelliğim sayesinde, daha ver
 ### 📊 GitHub İstatistikleri
 
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=erkanyigit&show_icons=true&locale=en&theme=dark" alt="Erkan'ın GitHub İstatistikleri" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=erkanyigit&layout=compact&hide=html,css&langs_count=8&theme=dark&v=1" alt="En Çok Kullanılan Diller" />
 </p>
 
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=erkanyigit&layout=compact&hide=html,css&langs_count=8&theme=dark&v=1" alt="En Çok Kullanılan Diller" />
+    <img src="https://github-readme-stats.vercel.app/api?username=erkanyigit&show_icons=true&locale=en&theme=dark" alt="Erkan'ın GitHub İstatistikleri" />
 </p>
 
 <p align="center">
