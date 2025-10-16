@@ -32,6 +32,12 @@ bilgiliyim. Takım içinde uyumlu çalışabilme özelliğim sayesinde, daha ver
     <a href="https://www.linkedin.com/in/erkan-yiğit-8821a4262/" target="_blank">
         <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
     </a>
+    <a href="https://erkanyigit.vercel.app" target="_blank">
+        <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=netlify&logoColor=white" alt="Portfolio">
+    </a>
+    <a href="mailto:erkan.ygt01@gmail.com">
+        <img src="https://img.shields.io/badge/Mail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Mail">
+    </a>
 </p>
 
 ---
