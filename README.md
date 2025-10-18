@@ -13,7 +13,7 @@
 
  çalışmasına yatkın ve yeni projeleri öğrenmeye istekliyim. Üniversite ve staj süresince bir kaç farklı
 
- projede yer aldım ve Python, C#, Yapay Zeka ile Görüntü Tanıma ve  Veri tabanı yönetimi konularında 
+ projede yer aldım ve React, JS, TypeScript, Python, C#, Yapay Zeka ile Görüntü Tanıma ve  Veri tabanı yönetimi konularında 
 
 bilgiliyim. Takım içinde uyumlu çalışabilme özelliğim sayesinde, daha verimli sonuçlar ortaya koyan
 
