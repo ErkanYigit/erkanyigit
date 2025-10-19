@@ -5,29 +5,17 @@
 
 ---
 
-### 🙋‍♂️ Hakkımda
+### 🙋‍♂️ About Me
 
- Merhaba ben Erkan Yiğit. Hitit Üniversitesi Bilgisayar Mühendisliği mezunuyum. Öğrenmeye açık bir
-
- mühendis adayı olarak, teknoloji ve yazılım projelerine katkı sağlamayı hedefliyorum. Ekip
-
- çalışmasına yatkın ve yeni projeleri öğrenmeye istekliyim. Üniversite ve staj süresince bir kaç farklı
-
- projede yer aldım ve React, JS, TypeScript, Python, C#, Yapay Zeka ile Görüntü Tanıma ve  Veri tabanı yönetimi konularında 
-
-bilgiliyim. Takım içinde uyumlu çalışabilme özelliğim sayesinde, daha verimli sonuçlar ortaya koyan
-
- çözümler ürettim. Gezmeyi ve yeni şeyler öğrenmeye açığım. 2024 yazında Work and Travel programı
-
- ile Amerika’da çalışma ve yabancı dil geliştirme fırsatını yakaladım.
+ Hello, I am Erkan Yiğit. I graduated from Hitit University as a Computer Engineer. As an aspiring engineer who is open to learning, I aim to contribute to technology and software projects. I am adept at teamwork and eager to learn new projects. During my university and internship period, I took part in a few different projects and am knowledgeable in React, JS, TypeScript, Python, C#, Artificial Intelligence with Image Recognition, and database management. Thanks to my ability to work harmoniously within a team, I have developed solutions that yield more efficient results. I am keen on traveling and learning new things. In the summer of 2024, I had the opportunity to work and improve my foreign language skills in America through the Work and Travel program.
 
 ---
 
-### 🚀 Güncel Durum & İletişim
+### 🚀 Current Status & Contact
 
-- 🔭 Şu anda **Kodlama** üzerine öğrenmeye ve çalışmaya devam ediyorum.
-- 📧 Bana ulaşın: **erkan.ygt01@gmail.com**
-- 🌐 Kişisel Web Sitem: [erkanyigit.vercel.app](https://erkanyigit.vercel.app)
+- 🔭 I am currently continuing to learn and work on **Coding**.
+- 📧 Contact me: **erkan.ygt01@gmail.com**
+- 🌐 Personal Website: [erkanyigit.vercel.app](https://erkanyigit.vercel.app)
 
 <p align="center">
     <a href="https://www.linkedin.com/in/erkan-yiğit-8821a4262/" target="_blank">
@@ -43,7 +31,7 @@ bilgiliyim. Takım içinde uyumlu çalışabilme özelliğim sayesinde, daha ver
 
 ---
 
-### 🛠️ Kullandığım Diller ve Araçlar
+### 🛠️ Languages and Tools I Use
 
 <p align="center">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="csharp" width="45" height="45"/>
@@ -63,14 +51,14 @@ bilgiliyim. Takım içinde uyumlu çalışabilme özelliğim sayesinde, daha ver
 
 ---
 
-### 📊 GitHub İstatistikleri
+### 📊 GitHub Stats
 
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=erkanyigit&layout=compact&hide=html,css&langs_count=8&theme=dark&v=1" alt="En Çok Kullanılan Diller" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=erkanyigit&layout=compact&hide=html,css&langs_count=8&theme=dark&v=1" alt="Most Used Languages" />
 </p>
 
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=erkanyigit&show_icons=true&locale=en&theme=dark" alt="Erkan'ın GitHub İstatistikleri" />
+    <img src="https://github-readme-stats.vercel.app/api?username=erkanyigit&show_icons=true&locale=en&theme=dark" alt="Erkan's GitHub Stats" />
 </p>
 
 <p align="center">
