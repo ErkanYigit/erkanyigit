@@ -27,7 +27,7 @@ bilgiliyim. Takım içinde uyumlu çalışabilme özelliğim sayesinde, daha ver
 
 - 🔭 Şu anda **Kodlama** üzerine öğrenmeye ve çalışmaya devam ediyorum.
 - 📧 Bana ulaşın: **erkan.ygt01@gmail.com**
-- 🌐 Kişisel Web Sitem: erkanyigit.vercel.app
+- 🌐 Kişisel Web Sitem: [erkanyigit.vercel.app](https://erkanyigit.vercel.app)
 
 <p align="center">
     <a href="https://www.linkedin.com/in/erkan-yiğit-8821a4262/" target="_blank">
