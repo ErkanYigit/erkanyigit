@@ -15,7 +15,7 @@
 
 - 🔭 I am currently continuing to learn and work on **Coding**.
 - 📧 Contact me: **erkan.ygt01@gmail.com**
-- 🌐 Personal Website: [erkanyigit.vercel.app](https://erkanyigit.vercel.app)
+- 🌐 Personal Website: [erkanyigit.me](https://erkanyigit.me)
 
 <p align="center">
     <a href="https://www.linkedin.com/in/erkan-yiğit-8821a4262/" target="_blank">
